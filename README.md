@@ -55,13 +55,13 @@ Una vez que haya instalado todas las herramientas necesarias, puede seguir estos
 1. Clone este repositorio en su máquina local usando el siguiente comando:
 
     ```bash
-    git clone https://url-del-repositorio.git
+    git clone https://github.com/Cesarbautista10/CH552-Entorno-Windows.git
     ```
 
 2. Abra el directorio del repositorio:
 
     ```bash
-    cd nombre-del-repositorio
+    cd CH552-Entorno-Windows
     ```
 
 3. Desarrolle su software embebido utilizando el CH552.
